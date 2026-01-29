@@ -1,0 +1,351 @@
+Day,Date,Bus_No,Route,Stop_Name,Direction,Time_Slot,Scheduled,Actual,Delay_Mins,Traffic,Weather
+Monday,2025-10-20,207,West,Kandivali Stn (W),Up,06:00,06:00,06:00,0,Low,Clear
+Monday,2025-10-20,296,East,Kandivali Stn (E),Up,06:15,06:15,06:17,2,Low,Clear
+Monday,2025-10-20,720,LinkRd,Mith Chowky,Up,06:30,06:30,06:35,5,Low,Clear
+Monday,2025-10-20,207,West,Shatabdi Hosp,Up,06:45,06:50,06:52,2,Low,Clear
+Monday,2025-10-20,296,East,Growels 101,Up,07:00,07:05,07:10,5,Medium,Clear
+Monday,2025-10-20,244,West,Mahavir Nagar,Up,07:15,07:20,07:28,8,Medium,Clear
+Monday,2025-10-20,207,West,Don Bosco,Up,07:30,07:35,07:45,10,High,Sunny
+Monday,2025-10-20,720,LinkRd,Borivali Stn (W),Up,07:45,08:00,08:12,12,High,Sunny
+Monday,2025-10-20,296,East,Samta Nagar,Up,08:00,08:10,08:25,15,Extreme,Sunny
+Monday,2025-10-20,207,West,Kandivali Stn (W),Dn,08:10,08:15,08:35,20,Extreme,Sunny
+Monday,2025-10-20,244,West,Shatabdi Hosp,Dn,08:20,08:25,08:42,17,Extreme,Sunny
+Monday,2025-10-20,720,LinkRd,Mahavir Nagar,Dn,08:30,08:35,08:55,20,Extreme,Sunny
+Monday,2025-10-20,296,East,Borivali Stn (E),Dn,08:40,08:45,09:05,20,Extreme,Sunny
+Monday,2025-10-20,207,West,Don Bosco,Dn,08:50,09:00,09:22,22,Extreme,Sunny
+Monday,2025-10-20,244,West,Borivali Stn (W),Dn,09:00,09:10,09:35,25,Extreme,Sunny
+Monday,2025-10-20,296,East,Kandivali Stn (E),Up,09:10,09:15,09:35,20,Extreme,Sunny
+Monday,2025-10-20,720,LinkRd,Mith Chowky,Up,09:20,09:25,09:40,15,High,Sunny
+Monday,2025-10-20,207,West,Shatabdi Hosp,Up,09:30,09:35,09:50,15,High,Sunny
+Monday,2025-10-20,244,West,Mahavir Nagar,Up,09:40,09:45,10:00,15,High,Sunny
+Monday,2025-10-20,296,East,Growels 101,Dn,09:50,10:00,10:12,12,High,Sunny
+Monday,2025-10-20,720,LinkRd,Don Bosco,Dn,10:00,10:10,10:25,15,High,Sunny
+Monday,2025-10-20,207,West,Borivali Stn (W),Dn,10:15,10:20,10:32,12,Medium,Sunny
+Monday,2025-10-20,296,East,Samta Nagar,Up,10:30,10:35,10:45,10,Medium,Sunny
+Monday,2025-10-20,244,West,Kandivali Stn (W),Up,11:00,11:05,11:12,7,Medium,Sunny
+Monday,2025-10-20,720,LinkRd,Mahavir Nagar,Dn,11:30,11:35,11:42,7,Medium,Sunny
+Monday,2025-10-20,207,West,Shatabdi Hosp,Dn,12:00,12:05,12:10,5,Medium,Sunny
+Monday,2025-10-20,296,East,Kandivali Stn (E),Up,12:30,12:35,12:40,5,Low,Sunny
+Monday,2025-10-20,244,West,Don Bosco,Up,13:00,13:05,13:10,5,Low,Sunny
+Monday,2025-10-20,720,LinkRd,Borivali Stn (W),Dn,13:30,13:35,13:40,5,Low,Sunny
+Monday,2025-10-20,207,West,Mahavir Nagar,Dn,14:00,14:05,14:10,5,Low,Sunny
+Monday,2025-10-20,296,East,Growels 101,Up,14:30,14:35,14:40,5,Medium,Sunny
+Monday,2025-10-20,244,West,Shatabdi Hosp,Dn,15:00,15:05,15:12,7,Medium,Sunny
+Monday,2025-10-20,720,LinkRd,Mith Chowky,Up,15:30,15:35,15:45,10,Medium,Sunny
+Monday,2025-10-20,207,West,Kandivali Stn (W),Dn,16:00,16:05,16:15,10,Medium,Sunny
+Monday,2025-10-20,296,East,Samta Nagar,Up,16:30,16:35,16:48,13,High,Sunny
+Monday,2025-10-20,244,West,Mahavir Nagar,Dn,17:00,17:10,17:25,15,High,Sunny
+Monday,2025-10-20,720,LinkRd,Don Bosco,Up,17:15,17:20,17:38,18,High,Sunny
+Monday,2025-10-20,207,West,Borivali Stn (W),Dn,17:30,17:40,18:00,20,Extreme,Sunny
+Monday,2025-10-20,296,East,Borivali Stn (E),Up,17:45,18:00,18:22,22,Extreme,Sunny
+Monday,2025-10-20,244,West,Shatabdi Hosp,Dn,18:00,18:10,18:35,25,Extreme,Sunny
+Monday,2025-10-20,720,LinkRd,Mahavir Nagar,Up,18:15,18:25,18:50,25,Extreme,Sunny
+Monday,2025-10-20,207,West,Kandivali Stn (W),Dn,18:30,18:40,19:05,25,Extreme,Sunny
+Monday,2025-10-20,296,East,Growels 101,Up,19:00,19:10,19:30,20,Extreme,Sunny
+Monday,2025-10-20,244,West,Don Bosco,Dn,19:30,19:40,19:58,18,High,Sunny
+Monday,2025-10-20,720,LinkRd,Borivali Stn (W),Up,20:00,20:10,20:25,15,High,Sunny
+Monday,2025-10-20,207,West,Shatabdi Hosp,Dn,20:30,20:35,20:48,13,High,Sunny
+Monday,2025-10-20,296,East,Kandivali Stn (E),Up,21:00,21:05,21:15,10,Medium,Clear
+Monday,2025-10-20,244,West,Mahavir Nagar,Dn,21:30,21:35,21:42,7,Medium,Clear
+Monday,2025-10-20,720,LinkRd,Mith Chowky,Up,22:00,22:05,22:10,5,Low,Clear
+Monday,2025-10-20,207,West,Borivali Stn (W),Dn,22:30,22:35,22:38,3,Low,Clear
+Tuesday,2025-10-21,207,West,Kandivali Stn (W),Up,06:00,06:00,06:00,0,Low,Clear
+Tuesday,2025-10-21,296,East,Kandivali Stn (E),Up,06:15,06:15,06:18,3,Low,Clear
+Tuesday,2025-10-21,720,LinkRd,Mith Chowky,Up,06:30,06:30,06:34,4,Low,Clear
+Tuesday,2025-10-21,207,West,Shatabdi Hosp,Up,06:45,06:50,06:53,3,Low,Clear
+Tuesday,2025-10-21,296,East,Growels 101,Up,07:00,07:05,07:11,6,Medium,Clear
+Tuesday,2025-10-21,244,West,Mahavir Nagar,Up,07:15,07:20,07:29,9,Medium,Clear
+Tuesday,2025-10-21,207,West,Don Bosco,Up,07:30,07:35,07:46,11,High,Sunny
+Tuesday,2025-10-21,720,LinkRd,Borivali Stn (W),Up,07:45,08:00,08:14,14,High,Sunny
+Tuesday,2025-10-21,296,East,Samta Nagar,Up,08:00,08:10,08:26,16,Extreme,Sunny
+Tuesday,2025-10-21,207,West,Kandivali Stn (W),Dn,08:10,08:15,08:36,21,Extreme,Sunny
+Tuesday,2025-10-21,244,West,Shatabdi Hosp,Dn,08:20,08:25,08:43,18,Extreme,Sunny
+Tuesday,2025-10-21,720,LinkRd,Mahavir Nagar,Dn,08:30,08:35,08:56,21,Extreme,Sunny
+Tuesday,2025-10-21,296,East,Borivali Stn (E),Dn,08:40,08:45,09:07,22,Extreme,Sunny
+Tuesday,2025-10-21,207,West,Don Bosco,Dn,08:50,09:00,09:23,23,Extreme,Sunny
+Tuesday,2025-10-21,244,West,Borivali Stn (W),Dn,09:00,09:10,09:36,26,Extreme,Sunny
+Tuesday,2025-10-21,296,East,Kandivali Stn (E),Up,09:10,09:15,09:36,21,Extreme,Sunny
+Tuesday,2025-10-21,720,LinkRd,Mith Chowky,Up,09:20,09:25,09:41,16,High,Sunny
+Tuesday,2025-10-21,207,West,Shatabdi Hosp,Up,09:30,09:35,09:51,16,High,Sunny
+Tuesday,2025-10-21,244,West,Mahavir Nagar,Up,09:40,09:45,10:01,16,High,Sunny
+Tuesday,2025-10-21,296,East,Growels 101,Dn,09:50,10:00,10:13,13,High,Sunny
+Tuesday,2025-10-21,720,LinkRd,Don Bosco,Dn,10:00,10:10,10:26,16,High,Sunny
+Tuesday,2025-10-21,207,West,Borivali Stn (W),Dn,10:15,10:20,10:33,13,Medium,Sunny
+Tuesday,2025-10-21,296,East,Samta Nagar,Up,10:30,10:35,10:46,11,Medium,Sunny
+Tuesday,2025-10-21,244,West,Kandivali Stn (W),Up,11:00,11:05,11:13,8,Medium,Sunny
+Tuesday,2025-10-21,720,LinkRd,Mahavir Nagar,Dn,11:30,11:35,11:43,8,Medium,Sunny
+Tuesday,2025-10-21,207,West,Shatabdi Hosp,Dn,12:00,12:05,12:11,6,Medium,Sunny
+Tuesday,2025-10-21,296,East,Kandivali Stn (E),Up,12:30,12:35,12:41,6,Low,Sunny
+Tuesday,2025-10-21,244,West,Don Bosco,Up,13:00,13:05,13:11,6,Low,Sunny
+Tuesday,2025-10-21,720,LinkRd,Borivali Stn (W),Dn,13:30,13:35,13:41,6,Low,Sunny
+Tuesday,2025-10-21,207,West,Mahavir Nagar,Dn,14:00,14:05,14:11,6,Low,Sunny
+Tuesday,2025-10-21,296,East,Growels 101,Up,14:30,14:35,14:41,6,Medium,Sunny
+Tuesday,2025-10-21,244,West,Shatabdi Hosp,Dn,15:00,15:05,15:13,8,Medium,Sunny
+Tuesday,2025-10-21,720,LinkRd,Mith Chowky,Up,15:30,15:35,15:46,11,Medium,Sunny
+Tuesday,2025-10-21,207,West,Kandivali Stn (W),Dn,16:00,16:05,16:16,11,Medium,Sunny
+Tuesday,2025-10-21,296,East,Samta Nagar,Up,16:30,16:35,16:49,14,High,Sunny
+Tuesday,2025-10-21,244,West,Mahavir Nagar,Dn,17:00,17:10,17:26,16,High,Sunny
+Tuesday,2025-10-21,720,LinkRd,Don Bosco,Up,17:15,17:20,17:39,19,High,Sunny
+Tuesday,2025-10-21,207,West,Borivali Stn (W),Dn,17:30,17:40,18:02,22,Extreme,Sunny
+Tuesday,2025-10-21,296,East,Borivali Stn (E),Up,17:45,18:00,18:24,24,Extreme,Sunny
+Tuesday,2025-10-21,244,West,Shatabdi Hosp,Dn,18:00,18:10,18:37,27,Extreme,Sunny
+Tuesday,2025-10-21,720,LinkRd,Mahavir Nagar,Up,18:15,18:25,18:52,27,Extreme,Sunny
+Tuesday,2025-10-21,207,West,Kandivali Stn (W),Dn,18:30,18:40,19:07,27,Extreme,Sunny
+Tuesday,2025-10-21,296,East,Growels 101,Up,19:00,19:10,19:32,22,Extreme,Sunny
+Tuesday,2025-10-21,244,West,Don Bosco,Dn,19:30,19:40,20:00,20,High,Sunny
+Tuesday,2025-10-21,720,LinkRd,Borivali Stn (W),Up,20:00,20:10,20:26,16,High,Sunny
+Tuesday,2025-10-21,207,West,Shatabdi Hosp,Dn,20:30,20:35,20:49,14,High,Sunny
+Tuesday,2025-10-21,296,East,Kandivali Stn (E),Up,21:00,21:05,21:16,11,Medium,Clear
+Tuesday,2025-10-21,244,West,Mahavir Nagar,Dn,21:30,21:35,21:43,8,Medium,Clear
+Tuesday,2025-10-21,720,LinkRd,Mith Chowky,Up,22:00,22:05,22:11,6,Low,Clear
+Tuesday,2025-10-21,207,West,Borivali Stn (W),Dn,22:30,22:35,22:39,4,Low,Clear
+Wednesday,2025-10-22,207,West,Kandivali Stn (W),Up,06:00,06:00,06:01,1,Low,Clear
+Wednesday,2025-10-22,296,East,Kandivali Stn (E),Up,06:15,06:15,06:17,2,Low,Clear
+Wednesday,2025-10-22,720,LinkRd,Mith Chowky,Up,06:30,06:30,06:35,5,Low,Clear
+Wednesday,2025-10-22,207,West,Shatabdi Hosp,Up,06:45,06:50,06:52,2,Low,Clear
+Wednesday,2025-10-22,296,East,Growels 101,Up,07:00,07:05,07:10,5,Medium,Clear
+Wednesday,2025-10-22,244,West,Mahavir Nagar,Up,07:15,07:20,07:28,8,Medium,Clear
+Wednesday,2025-10-22,207,West,Don Bosco,Up,07:30,07:35,07:45,10,High,Sunny
+Wednesday,2025-10-22,720,LinkRd,Borivali Stn (W),Up,07:45,08:00,08:12,12,High,Sunny
+Wednesday,2025-10-22,296,East,Samta Nagar,Up,08:00,08:10,08:25,15,Extreme,Sunny
+Wednesday,2025-10-22,207,West,Kandivali Stn (W),Dn,08:10,08:15,08:35,20,Extreme,Sunny
+Wednesday,2025-10-22,244,West,Shatabdi Hosp,Dn,08:20,08:25,08:42,17,Extreme,Sunny
+Wednesday,2025-10-22,720,LinkRd,Mahavir Nagar,Dn,08:30,08:35,08:55,20,Extreme,Sunny
+Wednesday,2025-10-22,296,East,Borivali Stn (E),Dn,08:40,08:45,09:05,20,Extreme,Sunny
+Wednesday,2025-10-22,207,West,Don Bosco,Dn,08:50,09:00,09:22,22,Extreme,Sunny
+Wednesday,2025-10-22,244,West,Borivali Stn (W),Dn,09:00,09:10,09:35,25,Extreme,Sunny
+Wednesday,2025-10-22,296,East,Kandivali Stn (E),Up,09:10,09:15,09:35,20,Extreme,Sunny
+Wednesday,2025-10-22,720,LinkRd,Mith Chowky,Up,09:20,09:25,09:40,15,High,Sunny
+Wednesday,2025-10-22,207,West,Shatabdi Hosp,Up,09:30,09:35,09:50,15,High,Sunny
+Wednesday,2025-10-22,244,West,Mahavir Nagar,Up,09:40,09:45,10:00,15,High,Sunny
+Wednesday,2025-10-22,296,East,Growels 101,Dn,09:50,10:00,10:12,12,High,Sunny
+Wednesday,2025-10-22,720,LinkRd,Don Bosco,Dn,10:00,10:10,10:25,15,High,Sunny
+Wednesday,2025-10-22,207,West,Borivali Stn (W),Dn,10:15,10:20,10:32,12,Medium,Sunny
+Wednesday,2025-10-22,296,East,Samta Nagar,Up,10:30,10:35,10:45,10,Medium,Sunny
+Wednesday,2025-10-22,244,West,Kandivali Stn (W),Up,11:00,11:05,11:12,7,Medium,Sunny
+Wednesday,2025-10-22,720,LinkRd,Mahavir Nagar,Dn,11:30,11:35,11:42,7,Medium,Sunny
+Wednesday,2025-10-22,207,West,Shatabdi Hosp,Dn,12:00,12:05,12:10,5,Medium,Sunny
+Wednesday,2025-10-22,296,East,Kandivali Stn (E),Up,12:30,12:35,12:40,5,Low,Sunny
+Wednesday,2025-10-22,244,West,Don Bosco,Up,13:00,13:05,13:10,5,Low,Sunny
+Wednesday,2025-10-22,720,LinkRd,Borivali Stn (W),Dn,13:30,13:35,13:40,5,Low,Sunny
+Wednesday,2025-10-22,207,West,Mahavir Nagar,Dn,14:00,14:05,14:10,5,Low,Sunny
+Wednesday,2025-10-22,296,East,Growels 101,Up,14:30,14:35,14:40,5,Medium,Sunny
+Wednesday,2025-10-22,244,West,Shatabdi Hosp,Dn,15:00,15:05,15:12,7,Medium,Sunny
+Wednesday,2025-10-22,720,LinkRd,Mith Chowky,Up,15:30,15:35,15:45,10,Medium,Sunny
+Wednesday,2025-10-22,207,West,Kandivali Stn (W),Dn,16:00,16:05,16:15,10,Medium,Sunny
+Wednesday,2025-10-22,296,East,Samta Nagar,Up,16:30,16:35,16:48,13,High,Sunny
+Wednesday,2025-10-22,244,West,Mahavir Nagar,Dn,17:00,17:10,17:25,15,High,Sunny
+Wednesday,2025-10-22,720,LinkRd,Don Bosco,Up,17:15,17:20,17:38,18,High,Sunny
+Wednesday,2025-10-22,207,West,Borivali Stn (W),Dn,17:30,17:40,18:00,20,Extreme,Sunny
+Wednesday,2025-10-22,296,East,Borivali Stn (E),Up,17:45,18:00,18:22,22,Extreme,Sunny
+Wednesday,2025-10-22,244,West,Shatabdi Hosp,Dn,18:00,18:10,18:35,25,Extreme,Sunny
+Wednesday,2025-10-22,720,LinkRd,Mahavir Nagar,Up,18:15,18:25,18:50,25,Extreme,Sunny
+Wednesday,2025-10-22,207,West,Kandivali Stn (W),Dn,18:30,18:40,19:05,25,Extreme,Sunny
+Wednesday,2025-10-22,296,East,Growels 101,Up,19:00,19:10,19:30,20,Extreme,Sunny
+Wednesday,2025-10-22,244,West,Don Bosco,Dn,19:30,19:40,19:58,18,High,Sunny
+Wednesday,2025-10-22,720,LinkRd,Borivali Stn (W),Up,20:00,20:10,20:25,15,High,Sunny
+Wednesday,2025-10-22,207,West,Shatabdi Hosp,Dn,20:30,20:35,20:48,13,High,Sunny
+Wednesday,2025-10-22,296,East,Kandivali Stn (E),Up,21:00,21:05,21:15,10,Medium,Clear
+Wednesday,2025-10-22,244,West,Mahavir Nagar,Dn,21:30,21:35,21:42,7,Medium,Clear
+Wednesday,2025-10-22,720,LinkRd,Mith Chowky,Up,22:00,22:05,22:10,5,Low,Clear
+Wednesday,2025-10-22,207,West,Borivali Stn (W),Dn,22:30,22:35,22:38,3,Low,Clear
+Thursday,2025-10-23,207,West,Kandivali Stn (W),Up,06:00,06:00,06:00,0,Low,Clear
+Thursday,2025-10-23,296,East,Kandivali Stn (E),Up,06:15,06:15,06:17,2,Low,Clear
+Thursday,2025-10-23,720,LinkRd,Mith Chowky,Up,06:30,06:30,06:35,5,Low,Clear
+Thursday,2025-10-23,207,West,Shatabdi Hosp,Up,06:45,06:50,06:52,2,Low,Clear
+Thursday,2025-10-23,296,East,Growels 101,Up,07:00,07:05,07:10,5,Medium,Clear
+Thursday,2025-10-23,244,West,Mahavir Nagar,Up,07:15,07:20,07:28,8,Medium,Clear
+Thursday,2025-10-23,207,West,Don Bosco,Up,07:30,07:35,07:45,10,High,Sunny
+Thursday,2025-10-23,720,LinkRd,Borivali Stn (W),Up,07:45,08:00,08:12,12,High,Sunny
+Thursday,2025-10-23,296,East,Samta Nagar,Up,08:00,08:10,08:25,15,Extreme,Sunny
+Thursday,2025-10-23,207,West,Kandivali Stn (W),Dn,08:10,08:15,08:35,20,Extreme,Sunny
+Thursday,2025-10-23,244,West,Shatabdi Hosp,Dn,08:20,08:25,08:42,17,Extreme,Sunny
+Thursday,2025-10-23,720,LinkRd,Mahavir Nagar,Dn,08:30,08:35,08:55,20,Extreme,Sunny
+Thursday,2025-10-23,296,East,Borivali Stn (E),Dn,08:40,08:45,09:05,20,Extreme,Sunny
+Thursday,2025-10-23,207,West,Don Bosco,Dn,08:50,09:00,09:22,22,Extreme,Sunny
+Thursday,2025-10-23,244,West,Borivali Stn (W),Dn,09:00,09:10,09:35,25,Extreme,Sunny
+Thursday,2025-10-23,296,East,Kandivali Stn (E),Up,09:10,09:15,09:35,20,Extreme,Sunny
+Thursday,2025-10-23,720,LinkRd,Mith Chowky,Up,09:20,09:25,09:40,15,High,Sunny
+Thursday,2025-10-23,207,West,Shatabdi Hosp,Up,09:30,09:35,09:50,15,High,Sunny
+Thursday,2025-10-23,244,West,Mahavir Nagar,Up,09:40,09:45,10:00,15,High,Sunny
+Thursday,2025-10-23,296,East,Growels 101,Dn,09:50,10:00,10:12,12,High,Sunny
+Thursday,2025-10-23,720,LinkRd,Don Bosco,Dn,10:00,10:10,10:25,15,High,Sunny
+Thursday,2025-10-23,207,West,Borivali Stn (W),Dn,10:15,10:20,10:32,12,Medium,Sunny
+Thursday,2025-10-23,296,East,Samta Nagar,Up,10:30,10:35,10:45,10,Medium,Sunny
+Thursday,2025-10-23,244,West,Kandivali Stn (W),Up,11:00,11:05,11:12,7,Medium,Sunny
+Thursday,2025-10-23,720,LinkRd,Mahavir Nagar,Dn,11:30,11:35,11:42,7,Medium,Sunny
+Thursday,2025-10-23,207,West,Shatabdi Hosp,Dn,12:00,12:05,12:10,5,Medium,Sunny
+Thursday,2025-10-23,296,East,Kandivali Stn (E),Up,12:30,12:35,12:40,5,Low,Sunny
+Thursday,2025-10-23,244,West,Don Bosco,Up,13:00,13:05,13:10,5,Low,Sunny
+Thursday,2025-10-23,720,LinkRd,Borivali Stn (W),Dn,13:30,13:35,13:40,5,Low,Sunny
+Thursday,2025-10-23,207,West,Mahavir Nagar,Dn,14:00,14:05,14:10,5,Low,Sunny
+Thursday,2025-10-23,296,East,Growels 101,Up,14:30,14:35,14:40,5,Medium,Sunny
+Thursday,2025-10-23,244,West,Shatabdi Hosp,Dn,15:00,15:05,15:12,7,Medium,Sunny
+Thursday,2025-10-23,720,LinkRd,Mith Chowky,Up,15:30,15:35,15:45,10,Medium,Sunny
+Thursday,2025-10-23,207,West,Kandivali Stn (W),Dn,16:00,16:05,16:15,10,Medium,Sunny
+Thursday,2025-10-23,296,East,Samta Nagar,Up,16:30,16:35,16:48,13,High,Sunny
+Thursday,2025-10-23,244,West,Mahavir Nagar,Dn,17:00,17:10,17:25,15,High,Sunny
+Thursday,2025-10-23,720,LinkRd,Don Bosco,Up,17:15,17:20,17:38,18,High,Sunny
+Thursday,2025-10-23,207,West,Borivali Stn (W),Dn,17:30,17:40,18:00,20,Extreme,Sunny
+Thursday,2025-10-23,296,East,Borivali Stn (E),Up,17:45,18:00,18:22,22,Extreme,Sunny
+Thursday,2025-10-23,244,West,Shatabdi Hosp,Dn,18:00,18:10,18:35,25,Extreme,Sunny
+Thursday,2025-10-23,720,LinkRd,Mahavir Nagar,Up,18:15,18:25,18:50,25,Extreme,Sunny
+Thursday,2025-10-23,207,West,Kandivali Stn (W),Dn,18:30,18:40,19:05,25,Extreme,Sunny
+Thursday,2025-10-23,296,East,Growels 101,Up,19:00,19:10,19:30,20,Extreme,Sunny
+Thursday,2025-10-23,244,West,Don Bosco,Dn,19:30,19:40,19:58,18,High,Sunny
+Thursday,2025-10-23,720,LinkRd,Borivali Stn (W),Up,20:00,20:10,20:25,15,High,Sunny
+Thursday,2025-10-23,207,West,Shatabdi Hosp,Dn,20:30,20:35,20:48,13,High,Sunny
+Thursday,2025-10-23,296,East,Kandivali Stn (E),Up,21:00,21:05,21:15,10,Medium,Clear
+Thursday,2025-10-23,244,West,Mahavir Nagar,Dn,21:30,21:35,21:42,7,Medium,Clear
+Thursday,2025-10-23,720,LinkRd,Mith Chowky,Up,22:00,22:05,22:10,5,Low,Clear
+Thursday,2025-10-23,207,West,Borivali Stn (W),Dn,22:30,22:35,22:38,3,Low,Clear
+Friday,2025-10-24,207,West,Kandivali Stn (W),Up,06:00,06:00,06:00,0,Low,Clear
+Friday,2025-10-24,296,East,Kandivali Stn (E),Up,06:15,06:15,06:18,3,Low,Clear
+Friday,2025-10-24,720,LinkRd,Mith Chowky,Up,06:30,06:30,06:36,6,Low,Clear
+Friday,2025-10-24,207,West,Shatabdi Hosp,Up,06:45,06:50,06:53,3,Low,Clear
+Friday,2025-10-24,296,East,Growels 101,Up,07:00,07:05,07:11,6,Medium,Clear
+Friday,2025-10-24,244,West,Mahavir Nagar,Up,07:15,07:20,07:29,9,Medium,Clear
+Friday,2025-10-24,207,West,Don Bosco,Up,07:30,07:35,07:46,11,High,Sunny
+Friday,2025-10-24,720,LinkRd,Borivali Stn (W),Up,07:45,08:00,08:14,14,High,Sunny
+Friday,2025-10-24,296,East,Samta Nagar,Up,08:00,08:10,08:26,16,Extreme,Sunny
+Friday,2025-10-24,207,West,Kandivali Stn (W),Dn,08:10,08:15,08:36,21,Extreme,Sunny
+Friday,2025-10-24,244,West,Shatabdi Hosp,Dn,08:20,08:25,08:43,18,Extreme,Sunny
+Friday,2025-10-24,720,LinkRd,Mahavir Nagar,Dn,08:30,08:35,08:56,21,Extreme,Sunny
+Friday,2025-10-24,296,East,Borivali Stn (E),Dn,08:40,08:45,09:07,22,Extreme,Sunny
+Friday,2025-10-24,207,West,Don Bosco,Dn,08:50,09:00,09:23,23,Extreme,Sunny
+Friday,2025-10-24,244,West,Borivali Stn (W),Dn,09:00,09:10,09:36,26,Extreme,Sunny
+Friday,2025-10-24,296,East,Kandivali Stn (E),Up,09:10,09:15,09:36,21,Extreme,Sunny
+Friday,2025-10-24,720,LinkRd,Mith Chowky,Up,09:20,09:25,09:41,16,High,Sunny
+Friday,2025-10-24,207,West,Shatabdi Hosp,Up,09:30,09:35,09:51,16,High,Sunny
+Friday,2025-10-24,244,West,Mahavir Nagar,Up,09:40,09:45,10:01,16,High,Sunny
+Friday,2025-10-24,296,East,Growels 101,Dn,09:50,10:00,10:13,13,High,Sunny
+Friday,2025-10-24,720,LinkRd,Don Bosco,Dn,10:00,10:10,10:26,16,High,Sunny
+Friday,2025-10-24,207,West,Borivali Stn (W),Dn,10:15,10:20,10:33,13,Medium,Sunny
+Friday,2025-10-24,296,East,Samta Nagar,Up,10:30,10:35,10:46,11,Medium,Sunny
+Friday,2025-10-24,244,West,Kandivali Stn (W),Up,11:00,11:05,11:13,8,Medium,Sunny
+Friday,2025-10-24,720,LinkRd,Mahavir Nagar,Dn,11:30,11:35,11:43,8,Medium,Sunny
+Friday,2025-10-24,207,West,Shatabdi Hosp,Dn,12:00,12:05,12:11,6,Medium,Sunny
+Friday,2025-10-24,296,East,Kandivali Stn (E),Up,12:30,12:35,12:41,6,Low,Sunny
+Friday,2025-10-24,244,West,Don Bosco,Up,13:00,13:05,13:11,6,Low,Sunny
+Friday,2025-10-24,720,LinkRd,Borivali Stn (W),Dn,13:30,13:35,13:41,6,Low,Sunny
+Friday,2025-10-24,207,West,Mahavir Nagar,Dn,14:00,14:05,14:11,6,Low,Sunny
+Friday,2025-10-24,296,East,Growels 101,Up,14:30,14:35,14:41,6,Medium,Sunny
+Friday,2025-10-24,244,West,Shatabdi Hosp,Dn,15:00,15:05,15:13,8,Medium,Sunny
+Friday,2025-10-24,720,LinkRd,Mith Chowky,Up,15:30,15:35,15:46,11,Medium,Sunny
+Friday,2025-10-24,207,West,Kandivali Stn (W),Dn,16:00,16:05,16:16,11,Medium,Sunny
+Friday,2025-10-24,296,East,Samta Nagar,Up,16:30,16:35,16:50,15,High,Sunny
+Friday,2025-10-24,244,West,Mahavir Nagar,Dn,17:00,17:10,17:28,18,High,Sunny
+Friday,2025-10-24,720,LinkRd,Don Bosco,Up,17:15,17:20,17:40,20,High,Sunny
+Friday,2025-10-24,207,West,Borivali Stn (W),Dn,17:30,17:40,18:05,25,Extreme,Sunny
+Friday,2025-10-24,296,East,Borivali Stn (E),Up,17:45,18:00,18:25,25,Extreme,Sunny
+Friday,2025-10-24,244,West,Shatabdi Hosp,Dn,18:00,18:10,18:40,30,Extreme,Sunny
+Friday,2025-10-24,720,LinkRd,Mahavir Nagar,Up,18:15,18:25,18:55,30,Extreme,Sunny
+Friday,2025-10-24,207,West,Kandivali Stn (W),Dn,18:30,18:40,19:10,30,Extreme,Sunny
+Friday,2025-10-24,296,East,Growels 101,Up,19:00,19:10,19:35,25,Extreme,Sunny
+Friday,2025-10-24,244,West,Don Bosco,Dn,19:30,19:40,20:02,22,Extreme,Sunny
+Friday,2025-10-24,720,LinkRd,Borivali Stn (W),Up,20:00,20:10,20:28,18,High,Sunny
+Friday,2025-10-24,207,West,Shatabdi Hosp,Dn,20:30,20:35,20:50,15,High,Sunny
+Friday,2025-10-24,296,East,Kandivali Stn (E),Up,21:00,21:05,21:18,13,Medium,Clear
+Friday,2025-10-24,244,West,Mahavir Nagar,Dn,21:30,21:35,21:44,9,Medium,Clear
+Friday,2025-10-24,720,LinkRd,Mith Chowky,Up,22:00,22:05,22:12,7,Low,Clear
+Friday,2025-10-24,207,West,Borivali Stn (W),Dn,22:30,22:35,22:40,5,Low,Clear
+Saturday,2025-10-25,207,West,Kandivali Stn (W),Up,06:00,06:00,06:00,0,Low,Clear
+Saturday,2025-10-25,296,East,Kandivali Stn (E),Up,06:15,06:15,06:17,2,Low,Clear
+Saturday,2025-10-25,720,LinkRd,Mith Chowky,Up,06:30,06:30,06:35,5,Low,Clear
+Saturday,2025-10-25,207,West,Shatabdi Hosp,Up,06:45,06:50,06:52,2,Low,Clear
+Saturday,2025-10-25,296,East,Growels 101,Up,07:00,07:05,07:12,7,Medium,Clear
+Saturday,2025-10-25,244,West,Mahavir Nagar,Up,07:15,07:20,07:30,10,Medium,Clear
+Saturday,2025-10-25,207,West,Don Bosco,Up,07:30,07:35,07:46,11,High,Sunny
+Saturday,2025-10-25,720,LinkRd,Borivali Stn (W),Up,07:45,08:00,08:14,14,High,Sunny
+Saturday,2025-10-25,296,East,Samta Nagar,Up,08:00,08:10,08:25,15,High,Sunny
+Saturday,2025-10-25,207,West,Kandivali Stn (W),Dn,08:10,08:15,08:35,20,High,Sunny
+Saturday,2025-10-25,244,West,Shatabdi Hosp,Dn,08:20,08:25,08:42,17,Extreme,Sunny
+Saturday,2025-10-25,720,LinkRd,Mahavir Nagar,Dn,08:30,08:35,08:55,20,Extreme,Sunny
+Saturday,2025-10-25,296,East,Borivali Stn (E),Dn,08:40,08:45,09:05,20,Extreme,Sunny
+Saturday,2025-10-25,207,West,Don Bosco,Dn,08:50,09:00,09:22,22,Extreme,Sunny
+Saturday,2025-10-25,244,West,Borivali Stn (W),Dn,09:00,09:10,09:35,25,Extreme,Sunny
+Saturday,2025-10-25,296,East,Kandivali Stn (E),Up,09:10,09:15,09:35,20,Extreme,Sunny
+Saturday,2025-10-25,720,LinkRd,Mith Chowky,Up,09:20,09:25,09:40,15,High,Sunny
+Saturday,2025-10-25,207,West,Shatabdi Hosp,Up,09:30,09:35,09:50,15,High,Sunny
+Saturday,2025-10-25,244,West,Mahavir Nagar,Up,09:40,09:45,10:00,15,High,Sunny
+Saturday,2025-10-25,296,East,Growels 101,Dn,09:50,10:00,10:12,12,High,Sunny
+Saturday,2025-10-25,720,LinkRd,Don Bosco,Dn,10:00,10:10,10:25,15,High,Sunny
+Saturday,2025-10-25,207,West,Borivali Stn (W),Dn,10:15,10:20,10:32,12,Medium,Sunny
+Saturday,2025-10-25,296,East,Samta Nagar,Up,10:30,10:35,10:48,13,High,Sunny
+Saturday,2025-10-25,244,West,Kandivali Stn (W),Up,11:00,11:05,11:15,10,High,Sunny
+Saturday,2025-10-25,720,LinkRd,Mahavir Nagar,Dn,11:30,11:35,11:45,10,High,Sunny
+Saturday,2025-10-25,207,West,Shatabdi Hosp,Dn,12:00,12:05,12:15,10,High,Sunny
+Saturday,2025-10-25,296,East,Kandivali Stn (E),Up,12:30,12:35,12:45,10,High,Sunny
+Saturday,2025-10-25,244,West,Don Bosco,Up,13:00,13:05,13:15,10,High,Sunny
+Saturday,2025-10-25,720,LinkRd,Borivali Stn (W),Dn,13:30,13:35,13:45,10,High,Sunny
+Saturday,2025-10-25,207,West,Mahavir Nagar,Dn,14:00,14:05,14:15,10,High,Sunny
+Saturday,2025-10-25,296,East,Growels 101,Up,14:30,14:35,14:45,10,High,Sunny
+Saturday,2025-10-25,244,West,Shatabdi Hosp,Dn,15:00,15:05,15:15,10,High,Sunny
+Saturday,2025-10-25,720,LinkRd,Mith Chowky,Up,15:30,15:35,15:48,13,High,Sunny
+Saturday,2025-10-25,207,West,Kandivali Stn (W),Dn,16:00,16:05,16:18,13,High,Sunny
+Saturday,2025-10-25,296,East,Samta Nagar,Up,16:30,16:35,16:50,15,High,Rain
+Saturday,2025-10-25,244,West,Mahavir Nagar,Dn,17:00,17:10,17:28,18,High,Rain
+Saturday,2025-10-25,720,LinkRd,Don Bosco,Up,17:15,17:20,17:40,20,Extreme,Rain
+Saturday,2025-10-25,207,West,Borivali Stn (W),Dn,17:30,17:40,18:05,25,Extreme,Rain
+Saturday,2025-10-25,296,East,Borivali Stn (E),Up,17:45,18:00,18:25,25,Extreme,Rain
+Saturday,2025-10-25,244,West,Shatabdi Hosp,Dn,18:00,18:10,18:35,25,Extreme,Rain
+Saturday,2025-10-25,720,LinkRd,Mahavir Nagar,Up,18:15,18:25,18:50,25,Extreme,Rain
+Saturday,2025-10-25,207,West,Kandivali Stn (W),Dn,18:30,18:40,19:05,25,Extreme,Rain
+Saturday,2025-10-25,296,East,Growels 101,Up,19:00,19:10,19:30,20,Extreme,Rain
+Saturday,2025-10-25,244,West,Don Bosco,Dn,19:30,19:40,19:58,18,High,Rain
+Saturday,2025-10-25,720,LinkRd,Borivali Stn (W),Up,20:00,20:10,20:25,15,High,Rain
+Saturday,2025-10-25,207,West,Shatabdi Hosp,Dn,20:30,20:35,20:48,13,High,Rain
+Saturday,2025-10-25,296,East,Kandivali Stn (E),Up,21:00,21:05,21:15,10,Medium,Rain
+Saturday,2025-10-25,244,West,Mahavir Nagar,Dn,21:30,21:35,21:42,7,Medium,Rain
+Saturday,2025-10-25,720,LinkRd,Mith Chowky,Up,22:00,22:05,22:10,5,Low,Clear
+Saturday,2025-10-25,207,West,Borivali Stn (W),Dn,22:30,22:35,22:38,3,Low,Clear
+Sunday,2025-10-26,207,West,Kandivali Stn (W),Up,06:00,06:00,06:00,0,Low,Clear
+Sunday,2025-10-26,296,East,Kandivali Stn (E),Up,06:15,06:15,06:15,0,Low,Clear
+Sunday,2025-10-26,720,LinkRd,Mith Chowky,Up,06:30,06:30,06:30,0,Low,Clear
+Sunday,2025-10-26,207,West,Shatabdi Hosp,Up,06:45,06:50,06:50,0,Low,Clear
+Sunday,2025-10-26,296,East,Growels 101,Up,07:00,07:05,07:05,0,Low,Clear
+Sunday,2025-10-26,244,West,Mahavir Nagar,Up,07:15,07:20,07:20,0,Low,Clear
+Sunday,2025-10-26,207,West,Don Bosco,Up,07:30,07:35,07:35,0,Low,Clear
+Sunday,2025-10-26,720,LinkRd,Borivali Stn (W),Up,07:45,08:00,08:02,2,Low,Sunny
+Sunday,2025-10-26,296,East,Samta Nagar,Up,08:00,08:10,08:12,2,Low,Sunny
+Sunday,2025-10-26,207,West,Kandivali Stn (W),Dn,08:10,08:15,08:18,3,Low,Sunny
+Sunday,2025-10-26,244,West,Shatabdi Hosp,Dn,08:20,08:25,08:28,3,Low,Sunny
+Sunday,2025-10-26,720,LinkRd,Mahavir Nagar,Dn,08:30,08:35,08:40,5,Medium,Sunny
+Sunday,2025-10-26,296,East,Borivali Stn (E),Dn,08:40,08:45,08:50,5,Medium,Sunny
+Sunday,2025-10-26,207,West,Don Bosco,Dn,08:50,09:00,09:05,5,Medium,Sunny
+Sunday,2025-10-26,244,West,Borivali Stn (W),Dn,09:00,09:10,09:15,5,Medium,Sunny
+Sunday,2025-10-26,296,East,Kandivali Stn (E),Up,09:10,09:15,09:20,5,Medium,Sunny
+Sunday,2025-10-26,720,LinkRd,Mith Chowky,Up,09:20,09:25,09:30,5,Medium,Sunny
+Sunday,2025-10-26,207,West,Shatabdi Hosp,Up,09:30,09:35,09:40,5,Medium,Sunny
+Sunday,2025-10-26,244,West,Mahavir Nagar,Up,09:40,09:45,09:50,5,Medium,Sunny
+Sunday,2025-10-26,296,East,Growels 101,Dn,09:50,10:00,10:05,5,Medium,Sunny
+Sunday,2025-10-26,720,LinkRd,Don Bosco,Dn,10:00,10:10,10:15,5,Medium,Sunny
+Sunday,2025-10-26,207,West,Borivali Stn (W),Dn,10:15,10:20,10:25,5,Medium,Sunny
+Sunday,2025-10-26,296,East,Samta Nagar,Up,10:30,10:35,10:40,5,Medium,Sunny
+Sunday,2025-10-26,244,West,Kandivali Stn (W),Up,11:00,11:05,11:10,5,Medium,Sunny
+Sunday,2025-10-26,720,LinkRd,Mahavir Nagar,Dn,11:30,11:35,11:40,5,Medium,Sunny
+Sunday,2025-10-26,207,West,Shatabdi Hosp,Dn,12:00,12:05,12:10,5,Medium,Sunny
+Sunday,2025-10-26,296,East,Kandivali Stn (E),Up,12:30,12:35,12:40,5,Low,Sunny
+Sunday,2025-10-26,244,West,Don Bosco,Up,13:00,13:05,13:10,5,Low,Sunny
+Sunday,2025-10-26,720,LinkRd,Borivali Stn (W),Dn,13:30,13:35,13:40,5,Low,Sunny
+Sunday,2025-10-26,207,West,Mahavir Nagar,Dn,14:00,14:05,14:10,5,Low,Sunny
+Sunday,2025-10-26,296,East,Growels 101,Up,14:30,14:35,14:40,5,Medium,Sunny
+Sunday,2025-10-26,244,West,Shatabdi Hosp,Dn,15:00,15:05,15:10,5,Medium,Sunny
+Sunday,2025-10-26,720,LinkRd,Mith Chowky,Up,15:30,15:35,15:40,5,Medium,Sunny
+Sunday,2025-10-26,207,West,Kandivali Stn (W),Dn,16:00,16:05,16:15,10,Medium,Sunny
+Sunday,2025-10-26,296,East,Samta Nagar,Up,16:30,16:35,16:45,10,Medium,Sunny
+Sunday,2025-10-26,244,West,Mahavir Nagar,Dn,17:00,17:10,17:22,12,High,Rain
+Sunday,2025-10-26,720,LinkRd,Don Bosco,Up,17:15,17:20,17:35,15,High,Rain
+Sunday,2025-10-26,207,West,Borivali Stn (W),Dn,17:30,17:40,17:55,15,High,Rain
+Sunday,2025-10-26,296,East,Borivali Stn (E),Up,17:45,18:00,18:18,18,High,Rain
+Sunday,2025-10-26,244,West,Shatabdi Hosp,Dn,18:00,18:10,18:30,20,Extreme,Rain
+Sunday,2025-10-26,720,LinkRd,Mahavir Nagar,Up,18:15,18:25,18:45,20,Extreme,Rain
+Sunday,2025-10-26,207,West,Kandivali Stn (W),Dn,18:30,18:40,19:00,20,Extreme,Rain
+Sunday,2025-10-26,296,East,Growels 101,Up,19:00,19:10,19:30,20,Extreme,Rain
+Sunday,2025-10-26,244,West,Don Bosco,Dn,19:30,19:40,19:55,15,High,Rain
+Sunday,2025-10-26,720,LinkRd,Borivali Stn (W),Up,20:00,20:10,20:25,15,High,Rain
+Sunday,2025-10-26,207,West,Shatabdi Hosp,Dn,20:30,20:35,20:48,13,High,Rain
+Sunday,2025-10-26,296,East,Kandivali Stn (E),Up,21:00,21:05,21:15,10,Medium,Clear
+Sunday,2025-10-26,244,West,Mahavir Nagar,Dn,21:30,21:35,21:42,7,Medium,Clear
+Sunday,2025-10-26,720,LinkRd,Mith Chowky,Up,22:00,22:05,22:10,5,Low,Clear
+Sunday,2025-10-26,207,West,Borivali Stn (W),Dn,22:30,22:35,22:38,3,Low,Clear
