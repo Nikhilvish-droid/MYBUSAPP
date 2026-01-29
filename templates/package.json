@@ -1,0 +1,11 @@
+{
+  "name": "templates",
+  "version": "1.0.0",
+  "description": "My Bus App Website",
+  "scripts": {
+    "build": "echo 'No build step necessary' && exit 0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
