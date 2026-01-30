@@ -1,7 +1,7 @@
 {
   "name": "templates",
   "version": "1.0.0",
-  "description": "My Bus App Website",
+  "description": "bus buddy Website",
   "scripts": {
     "build": "echo 'No build step necessary' && exit 0"
   },
