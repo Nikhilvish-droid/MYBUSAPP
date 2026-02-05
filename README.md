@@ -18,7 +18,7 @@ This project is built as a **smart transit solution** to improve daily commuting
 
 ---
 
-## 🎯 Key Features
+## 🎯 Key Features 
 
 ### 🔍 Smart Bus Search
 - Select **From** and **To** bus stops
@@ -56,7 +56,6 @@ This project is built as a **smart transit solution** to improve daily commuting
 ### Frontend
 - HTML5  
 - CSS3  
-- JavaScript  
 - Responsive UI design  
 - Modern UI cards & indicators  
 
