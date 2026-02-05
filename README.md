@@ -71,7 +71,6 @@ This project is built as a **smart transit solution** to improve daily commuting
 
 ### Data Sources
 - Dummy & simulated BEST bus data
-- Simulated GPS, traffic & delay data
 - Historical transit patterns (mock)
 
 ---
